@@ -1,0 +1,28 @@
+.card {
+    min-height: 400px;
+}
+
+.card-address {
+    padding: 10px 10px 10px 0px;
+    font-weight: 600;
+}
+
+.card-id {
+    padding: 10px;
+}
+
+.show-tasks {
+    font-weight: 100;
+    font-size: 12px;
+}
+
+.doctor-profile-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.doctor-profile-image > img {
+    width: 100%;
+}
